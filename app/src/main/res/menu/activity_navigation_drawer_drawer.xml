@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_property"
+            android:icon="@drawable/property"
+            android:title="@string/property" />
+        <item
+            android:id="@+id/nav_addProperty"
+            android:icon="@drawable/addproperty"
+            android:title="@string/add_property" />
+        <item
+            android:id="@+id/nav_tenant"
+            android:icon="@drawable/tenant1"
+            android:title="@string/tenant" />
+        <item
+            android:id="@+id/nav_addTenant"
+            android:icon="@drawable/addtenant"
+            android:title="@string/add_tenant" />
+    </group>
+
+    <item android:title="@string/profile"
+        android:icon="@drawable/tenant"
+        android:id="@+id/profile"
+        >
+
+    </item>
+
+    <item android:title="@string/logout"
+        android:icon="@drawable/logout"
+        android:id="@+id/logout"
+        >
+
+    </item>
+
+</menu>

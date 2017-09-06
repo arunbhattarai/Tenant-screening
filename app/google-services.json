@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "749184387160",
+    "firebase_url": "https://tenantscreening-8751b.firebaseio.com",
+    "project_id": "tenantscreening-8751b",
+    "storage_bucket": "tenantscreening-8751b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749184387160:android:554492e2e1ab9345",
+        "android_client_info": {
+          "package_name": "com.example.urgenism.tenantscreening"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749184387160-casl4vesvjts17eauvom5gefimoqoj3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urgenism.tenantscreening",
+            "certificate_hash": "ca153bfb6c16ccec68ed1cab41170f99e035eda4"
+          }
+        },
+        {
+          "client_id": "749184387160-8jhaputs964hs4squ5insq1ceguuf0lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpn1eFUmCY0fE_ZhX2IBsOs3fssnSEuF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749184387160-8jhaputs964hs4squ5insq1ceguuf0lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
