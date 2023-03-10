@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tenant-Screening-secondbranch.iml" filepath="$PROJECT_DIR$/Tenant-Screening-secondbranch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/TenantScreening.iml" filepath="$PROJECT_DIR$/TenantScreening.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tenant-Screening.iml" filepath="$PROJECT_DIR$/.idea/modules/Tenant-Screening.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tenant-Screening.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tenant-Screening.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tenant-Screening.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tenant-Screening.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tenant-Screening.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tenant-Screening.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tenant-Screening.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tenant-Screening.app.unitTest.iml" />
     </modules>
   </component>
 </project>
